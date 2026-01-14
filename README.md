@@ -11,7 +11,7 @@ My key projects include **DocuMind AI** (a RAG-based document search chatbot), *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-sreenivas-770a72271) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/VISHAL) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalsreenivas543@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-555555?logo=firefox&logoColor=green)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-555555?logo=firefox&logoColor=green)](vishal-s-portfolio-mu.vercel.app)
 
 
 # 💻 Tech Stack:
